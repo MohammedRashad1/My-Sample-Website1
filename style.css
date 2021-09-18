@@ -5,7 +5,7 @@ scroll-behavior: smooth;
     height: 16em;
 }
 .card{
-    height: 33rem;
+    height: 35rem;
     
 }
 .bg-info{
@@ -28,4 +28,5 @@ background-color:whitesmoke;
 #para{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
+    
 }
